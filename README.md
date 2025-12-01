@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik Kumar Gonepally  
 
-🚀 **Backend Developer @ InCred**  
+🚀 **Backend Developer**  
 I design and build **scalable, cloud-native backend services** using **Node.js, TypeScript, AWS, and Microservices Architecture**. Passionate about reliable APIs, distributed systems, and automation workflows that solve real-world problems.  
 
 ---
